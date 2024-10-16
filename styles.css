@@ -11,6 +11,21 @@ header {
     color: #fff;
 }
 
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+}
+
 footer {
     background-color: #333;
     color: #fff;
